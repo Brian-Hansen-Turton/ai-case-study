@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-- [Overview and Origin](#overview-and-origin-1)
+- [Overview and Origin](#overview-and-origin)
 - [Business Activities](#business-activities)
 - [Tesla Career](#tesla-career)
 - [Landscape](#landscape)
